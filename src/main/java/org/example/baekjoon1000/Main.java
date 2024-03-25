@@ -15,3 +15,13 @@ public class Main {
 }
 
 
+
+   /////자바 화이팅
+    ///scanner 문제 다시는 틀리지 말자
+
+
+
+
+
+
+
