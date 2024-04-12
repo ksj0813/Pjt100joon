@@ -1,4 +1,4 @@
-package org.example.baekjoon1000.baekjoon1000;
+package org.example.baekjoon1000.baekjoon;
 
 import java.util.Scanner;
 
