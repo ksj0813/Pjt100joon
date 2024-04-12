@@ -1,8 +1,8 @@
-package org.example.baekjoon9498;
+package org.example.baekjoon1000.baekjoon;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main9498 {
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);
